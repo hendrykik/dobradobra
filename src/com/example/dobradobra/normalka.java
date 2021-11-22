@@ -5,5 +5,6 @@ public class normalka {
         System.out.println("Hello world");
         System.out.println("serio sie udalo p?");
         System.out.println("serio spoka go?");
+        System.out.println("serio spodsdsdsdka go?");
     }
 }
